@@ -141,4 +141,7 @@ public class MainActivity extends AppCompatActivity {
             songsRV.scrollToPosition(PlayerActivity.position>6?PlayerActivity.position-6:0);
         }
     }
+
+
+
 }
